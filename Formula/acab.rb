@@ -2,7 +2,7 @@ class Acab < Formula
   desc "Switch between multiple AWS config files and profiles with fzf"
   homepage "https://github.com/5h3rr1ll/acab"
   url "https://github.com/5h3rr1ll/acab/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "9ddde8aa37e4470215daf4e6b375ca7cf1bc23296aa25e56a6f34523d0bd845e"
+  sha256 "748800eae93d1eaa4be3155610e36d20d529ddb26351e296fa1ea822df330ab5"
   license "MIT"
   head "https://github.com/5h3rr1ll/acab.git", branch: "main"
 
